@@ -109,3 +109,6 @@ My Bibased App
 5.  动态可点赞可转发可评论
 
 ####  总体：有一个搜索，有听歌识曲，有点击进去播放页入口
+
+API接口
+https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
