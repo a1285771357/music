@@ -112,3 +112,7 @@ My Bibased App
 
 API接口
 https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
+
+启动(默认安装node)
+npm i
+npm start
