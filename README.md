@@ -116,3 +116,5 @@ https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
 启动(默认安装node)
 npm i
 npm start
+
+mail:zhanglei.zl1109@gmail.com
