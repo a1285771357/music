@@ -1,14 +1,14 @@
 #  music
 My Bibased App
-##  技术(使用git对项目进行管理）
+##  技术(使用git对项目进行管理,前后端分离）
 ###  前端
-1.  使用react、ant-design（mobile）、echarts、next.js进行页面布局
+1.  使用react、ant-design（mobile,dva）、echarts、next.js进行页面布局
 2.  使用webpack进行前端代码压缩混淆
 3.  报文加密
 ###  后端
 1.  使用node
-2.  报文加密md5
-3.  数据库加密
+2.  报文加密
+3.  数据库加密md5
 ###  数据库
 1.  使用mongodb
 2.  数据库加密
